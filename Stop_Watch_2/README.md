@@ -36,3 +36,13 @@ Stop_Watch_2/
 └── README.md              # Project documentation
 
 ```
+
+---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Stop_Watch.png" width="48%" />
+</p>
+
+---
