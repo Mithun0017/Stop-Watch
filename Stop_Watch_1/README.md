@@ -32,3 +32,11 @@ It showcases precise timekeeping by updating centiseconds and offers an eye-catc
 - **JavaScript (Vanilla)** – Core timing logic and UI updates
 
 ---
+
+## 📸 Screenshots
+
+<p float="left">
+  <img src="./Stop_Watch.png" width="48%" />
+</p>
+
+---
